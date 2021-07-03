@@ -147,19 +147,26 @@ FROM
 ---
 
 ### できること
-- 分類、回帰、クラスタリング、レコメンデーション、次元削減
-  - モデルを選ぶ際は専門家になるか、呼ぶかAutoMLか
+model_typeを選んで様々なモデルを使い分けられる！
 
-### 苦手なこと
-- 高速応答
-  - TensorFlow SavedModel経由でVertex AIにインポートしてデプロイ
+- 分類
+- 回帰
+- クラスタリング
+- レコメンデーション
+- 次元削減
 
 ---
 
-### 便利なこと
+### 強み
 - モデルの評価機能が内包
 - SQLを書いて、ビジネス的に価値があるかすぐデータで評価
 - データポータルで予測値を眺める
+- BigQuery経由でモデルを共有できる
+- エクスポートでポータビリティにも優れる
+
+### 弱み
+- 高速応答
+  - TensorFlow SavedModel経由でVertex AIにデプロイ
 
 ---
 
@@ -395,3 +402,6 @@ MLOpsの開始をお手軽に。
 
 
 参考：[Google Cloud の新しいイノベーションでデータクラウドを統合](https://cloud.google.com/blog/ja/products/data-analytics/google-cloud-announces-new-data-cloud-products)
+
+
+---
