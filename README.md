@@ -1,0 +1,2 @@
+# pycpa_data_engineering_mfk
+マネーフォワードケッサイのBigQuery活用
