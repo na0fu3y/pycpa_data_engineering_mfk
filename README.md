@@ -192,12 +192,17 @@ FROM
 
 ![](https://s26597.pcdn.co/wp-content/uploads/2017/03/gif-google.gif)
 
+
+参考：[A New Cloud-Based Data Prep Solution from Google & Trifacta](https://www.trifacta.com/blog/data-preparation-solution-google-trifacta/)
+
 ---
 
 ## Datastream（2021-05-26プレビュー）
 Data FusionのWeb UIをぽちぽちするだけで、リアルタイムCDC転送。
 
 ![bg right 100%](https://storage.googleapis.com/gweb-cloudblog-publish/images/data_fusion_replication_wizard.max-2000x2000.jpg)
+
+参考：[リアルタイムの変更データ キャプチャを使用した BigQuery へのデータ レプリケーション](https://cloud.google.com/blog/ja/products/data-analytics/real-time-cdc-replication-bigquery)
 
 ---
 
@@ -206,6 +211,8 @@ Data FusionのWeb UIをぽちぽちするだけで、リアルタイムCDC転送
 フルマネージド リレーショナル データベース サービス
 
 ![bg right 80%](https://cloud.google.com/sql/images/cloud-sql-instance-overview.png)
+
+参考：[Cloud SQL ドキュメント](https://cloud.google.com/sql/docs)
 
 ---
 
@@ -216,6 +223,8 @@ SQLを拡張したSQLXを書いて、データ定義、検証、依存解消ま�
 
 ![bg right](https://assets.dataform.co/docs/introduction/sqlx_second_example.png)
 
+参考：[SQLX and Dataform in 5 minutes | Dataform](https://docs.dataform.co/introduction/dataform-in-5-minutes)
+
 ---
 
 ## Embulk
@@ -223,12 +232,16 @@ SQLを拡張したSQLXを書いて、データ定義、検証、依存解消ま�
 
 ![bg right 90%](https://gist.githubusercontent.com/frsyuki/f322a77ee2766a508ba9/raw/e8539b6b4fda1b3357e8c79d3966aa8148dbdbd3/embulk-overview.png)
 
+参考：[embulk/embulk: Embulk: Pluggable Bulk Data Loader. - GitHub](https://github.com/embulk/embulk)
+
 ---
 
 ## Airbyte
 オープンソースのデータ転送アプリケーション
 
 ![bg right 90%](https://gblobscdn.gitbook.com/assets%2F-MHZYvlJGSuz4DxQs3lX%2F-MOUz75LUvQkDvM9x5g2%2F-MOUzBVe81JlBrm3nm4D%2Fairbyte-ui-for-your-integration-pipelines.png?alt=media&token=7111a40b-e0a6-46ae-ba88-ab23e47cb2ee)
+
+参考：[Airbyte Documentation: Introduction](https://docs.airbyte.io/)
 
 ---
 
