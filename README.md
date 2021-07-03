@@ -204,15 +204,6 @@ model_typeを選んで様々なモデルを使い分けられる！
 
 ---
 
-## Datastream（2021-05-26プレビュー）
-Data FusionのWeb UIをぽちぽちするだけで、リアルタイムCDC転送。
-
-![bg right 100%](https://storage.googleapis.com/gweb-cloudblog-publish/images/data_fusion_replication_wizard.max-2000x2000.jpg)
-
-参考：[リアルタイムの変更データ キャプチャを使用した BigQuery へのデータ レプリケーション](https://cloud.google.com/blog/ja/products/data-analytics/real-time-cdc-replication-bigquery)
-
----
-
 ## Cloud SQL
 
 フルマネージド リレーショナル データベース サービス
@@ -357,8 +348,12 @@ KPIをデータ部門がBigQueryのビューで定義
 
 ---
 
-## Datastream
-略
+## Datastream（2021-05-26プレビュー）
+Data FusionのWeb UIをぽちぽちするだけで、リアルタイムCDC転送。
+
+![bg right 100%](https://storage.googleapis.com/gweb-cloudblog-publish/images/data_fusion_replication_wizard.max-2000x2000.jpg)
+
+参考：[リアルタイムの変更データ キャプチャを使用した BigQuery へのデータ レプリケーション](https://cloud.google.com/blog/ja/products/data-analytics/real-time-cdc-replication-bigquery)
 
 ---
 
